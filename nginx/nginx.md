@@ -20,7 +20,8 @@ NGINX is a high-performance web server that can also function as a:
   2. **Round Robin:** Requests are distributed sequentially among servers.
   3. **IP Hash:** Requests from the same client IP go to the same server (useful for session persistence).
 
-https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/12/img_638919074a163.png
+![image](https://github.com/user-attachments/assets/d6e11aa1-b9a4-4bf8-a834-59d46520513e)
+
 
 ### 2. Reverse Proxy
 
@@ -32,6 +33,9 @@ https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/12/img_638919074a1
 
 - Temporarily stores responses to improve performance and reduce load on backend servers.
 - Can cache static and dynamic content.
+
+![image](https://github.com/user-attachments/assets/7c5e35c6-032d-4994-9cbd-0d393b375e3d)
+
 
 ### 4. SSL/TLS Termination
 
@@ -69,6 +73,8 @@ https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/12/img_638919074a1
 - NGINX can be used as an ingress controller in Kubernetes clusters.
 - Manages external access to services in a cluster, typically via HTTP/HTTPS.
 - Provides features like SSL termination, path-based routing, and load balancing for Kubernetes services.
+
+![image](https://github.com/user-attachments/assets/99581c73-e8b9-47b9-a8d5-0c329b8bfce7)
 
 ---
 
