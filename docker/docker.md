@@ -40,7 +40,8 @@ Lists currently running containers.
 2. Build an image from the Dockerfile.
 3. Run a container from the image (can also pull prebuilt images and run them to create containers).
 
-**Example:**
+**Example:**![image](https://github.com/user-attachments/assets/092850e7-715d-46c2-8506-0a711a7a9b44)
+
 
 - `docker run image_name` → Pulls the image (if not present) and creates a container from it.
 
