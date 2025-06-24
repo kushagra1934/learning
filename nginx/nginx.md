@@ -20,6 +20,8 @@ NGINX is a high-performance web server that can also function as a:
   2. **Round Robin:** Requests are distributed sequentially among servers.
   3. **IP Hash:** Requests from the same client IP go to the same server (useful for session persistence).
 
+https://d2h1bfu6zrdxog.cloudfront.net/wp-content/uploads/2022/12/img_638919074a163.png
+
 ### 2. Reverse Proxy
 
 - Acts as an intermediary between clients and one or more backend servers.
